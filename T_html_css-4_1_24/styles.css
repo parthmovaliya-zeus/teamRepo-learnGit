@@ -3,6 +3,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", sans-serif;
+  background-color: whitesmoke;
 }
 .main-container {
   display: flex;
